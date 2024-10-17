@@ -31,7 +31,7 @@ Experiencia en telecomunicaciones. He trabajado en el diseño, implementación y
 
 
 ## Mi Pasion
-- 🌿 Apasionado por la naturaleza y el respeto hacia el medio ambiente, actualmente estoy desarrollando un proyecto de ganadería sostenible. Mi objetivo es implementar prácticas que optimicen los procesos productivos mientras se respeta el equilibrio ecológico. Además, estoy trabajando en una aplicación web para gestionar de manera eficiente los recursos y operaciones en la ganadería, promoviendo la sostenibilidad a través de la tecnología.
+🌿 Apasionado por la naturaleza y el respeto hacia el medio ambiente, actualmente estoy desarrollando un proyecto de ganadería sostenible. Mi objetivo es implementar prácticas que optimicen los procesos productivos mientras se respeta el equilibrio ecológico. Además, estoy trabajando en una aplicación web para gestionar de manera eficiente los recursos y operaciones en la ganadería, promoviendo la sostenibilidad a través de la tecnología.
 
 ## Conocimientos basicos de programacion:
 
